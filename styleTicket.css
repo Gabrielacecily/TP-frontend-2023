@@ -1,0 +1,51 @@
+
+.grupo-descuento {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+.descuentos {
+    margin: 40px;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+
+}
+
+.descuento-a {
+    border: solid 2px;
+    border-color: rgb(11, 74, 190);
+
+
+}
+.descuento-b{
+    border: solid 2px;
+    border-color: rgb(5, 122, 44);
+    
+}
+.descuento-c{
+    border: solid 2px;
+    border-color: rgb(201, 117, 8);
+   
+}
+
+.formu-contenedor{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+#resultado{
+     border-color: rgb(7, 7, 168); 
+     background-color: rgb(112, 187, 230); 
+     height: 40px;
+     border-radius: 5px;
+      padding: 5px;
+    }
+
+ footer{
+    margin-top: 40px;
+    background-color: #333333;
+    color: #fff;
+    padding-top: 30px ;
+  }
